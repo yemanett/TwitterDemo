@@ -1,0 +1,14 @@
+//
+//  NewTweetViewController.h
+//  TwitterDemo
+//
+//  Created by Yemane Tekleab on 2/3/17.
+//  Copyright © 2017 Yemane Tekleab. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface NewTweetViewController : UIViewController
+-(void)onSubmit;
+-(void)onCancel;
+@end
